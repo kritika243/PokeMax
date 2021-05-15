@@ -1,5 +1,15 @@
+.Pokemax {
+  text-align: center;
+}
 .Pokemax-cards {
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
+}
+
+.Pokemax-winner {
+  color: rgb(17 140 78);
+}
+.Pokemax-loser {
+  color: rgb(168, 19, 19);
 }
