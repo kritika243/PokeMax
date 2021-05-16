@@ -23,6 +23,6 @@ Nodejs Installed in your device
 - Clone this repository
 - Write npm install -- to install all node dependencies
 - npm start --- to run the project in your local machine
-- [Live Demo](https://kritika243.github.io/PokeMax/)
+- [Live Demo](https://kritika243.github.io/PokeMax/) (use desktop/laptop for a better view)
 
 **_Glad to see you here! Show some love by [starring](https://github.com/kritika243/PokeMax) this repo._**
